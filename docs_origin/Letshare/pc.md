@@ -9,4 +9,4 @@ title: Windows / macOS / Ubuntu）
 2. 点击地址栏的 “安装” 按钮，或通过菜单选择 “安装 LetShare”
 3. 安装完成后，将以独立窗口运行，可固定到任务栏或 Dock
 
-![](/images/pcinstall.png)
+![](/documents/images/pcinstall.png)

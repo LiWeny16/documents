@@ -12,11 +12,11 @@
 
 1. 打开网址 [https://letshare.fun](https://letshare.fun)
 
-<img width="30%" src="/images/4.png" ></img>
+<img width="30%" src="/documents/images/4.png" ></img>
 
 2. 点击地址栏右侧的 “安装” 图标，或菜单中的 “添加到主屏幕”
 
-<img width="30%" src="/images/5.png" ></img>
+<img width="30%" src="/documents/images/5.png" ></img>
 
 3. 安装完成后即可像原生应用一样使用
 

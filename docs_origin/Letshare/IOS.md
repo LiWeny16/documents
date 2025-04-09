@@ -4,12 +4,12 @@
 
 1. 打开 [https://letshare.fun](https://letshare.fun) 并 点击底部分享按钮
 
-<img width="30%" src="/images/1.png" ></img>
+<img width="30%" src="/documents/images/1.png" ></img>
 
 2. 选择 “添加到主屏幕”
 
-<img width="30%" src="/images/2.png" ></img>
+<img width="30%" src="/documents/images/2.png" ></img>
 
 3. 确认添加
 
-<img width="30%" src="/images/3.png" ></img>
+<img width="30%" src="/documents/images/3.png" ></img>
