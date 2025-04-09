@@ -1,6 +1,8 @@
 import { defineConfig } from 'dumi';
 
 export default defineConfig({
+  base: '/documents/',
+  publicPath: '/documents/',
   resolve: {
     docDirs: ['docs_origin'],
   },
